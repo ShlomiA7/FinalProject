@@ -1,0 +1,154 @@
+﻿dish_number;dish_name;price;dish_type;chiken;spicy;pastry;fish;tofu;beef;rice;coconut_Cream;eggs;sea_food;curry;fried;vegetarian;vegan
+10001;Earth;18;Appetizer;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10002;Ban Fish;44;Appetizer;0;1;1;1;0;0;0;0;0;0;0;1;0;0
+10003;Vietnamese Spring Roll Tofu;34;Appetizer;0;1;0;0;1;0;0;0;0;0;0;1;0;1
+10004;Vietnamese Spring Roll Chiken;34;Appetizer;1;1;0;0;0;0;0;0;0;0;0;1;0;0
+10005;Waji Roll;28;Appetizer;0;0;0;0;0;0;0;0;1;0;0;1;1;0
+10006;Samosa;34;Appetizer;0;0;0;0;0;0;0;0;0;0;1;1;0;1
+10007;Hanoi Roll;38;Appetizer;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+10008;Five Dim Sum beef;34;Appetizer;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10009;Five Dim Sum chiken;34;Appetizer;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10010;Five Dim Sum Shrimp;34;Appetizer;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10011;Five Dim Sum sweet potato;34;Appetizer;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+10012;beef ban;34;Appetizer;0;0;1;0;0;1;0;0;0;0;0;0;0;0
+10013;Chefs Roll;34;Appetizer;0;0;0;1;0;0;0;0;0;0;0;1;0;0
+10014;Phnom Penh;36;Appetizer;0;0;0;0;0;1;0;0;0;0;0;1;0;0
+10015;Ban Special;36;Appetizer;0;1;1;0;0;1;0;0;0;0;0;0;0;0
+10016;Osaka;36;Appetizer;0;1;0;1;0;0;0;0;0;0;0;0;0;0
+10017;Spicy sour soup;26;Soups;0;1;0;0;0;0;0;0;1;0;0;0;1;0
+10018;Traditional Chinese corn soup;26;Soups;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+10019;Ormasa Beef;38;Soups;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10020;Un ton soup;26;Soups;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10021;Japanese miso soup;26;Soups;0;0;0;0;1;0;0;0;0;0;0;0;1;0
+10022;Tom Yum Cao Seafood Soup;38;Soups;0;0;0;0;0;0;0;1;0;1;0;0;0;0
+10023;Tom Yum Cao Chicken Soup;36;Soups;1;0;0;0;0;0;0;1;0;0;0;0;0;0
+10024;Xiao soup;30;Soups;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+10025;Orosoma Beef;38;Soups;0;0;0;1;0;1;0;0;0;0;0;0;0;0
+10026;Tom Yum Kaw Fish;42;Soups;0;1;0;1;0;0;0;1;0;0;0;0;0;0
+10027;Som tum salad;36;Salads;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10028;Salad love Pele;48;Salads;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10029;Yam un Sun chicken;44;Salads;1;1;0;1;0;0;0;0;0;0;0;0;0;0
+10030;Yam un Sun shrimp;44;Salads;0;1;0;1;0;0;0;0;0;1;0;0;0;0
+10031;Mang salad chicken;36;Salads;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10032;Mang salad tofu;36;Salads;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+10033;Zoo Salad;36;Salads;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10034;Chinese salad;18;Salads;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10035;Love Guy salad;36;Salads;1;1;0;1;0;0;1;0;0;0;0;0;0;0
+10036;Peanut butter salad chicken;36;Salads;1;1;0;0;0;0;0;1;0;0;0;0;0;0
+10037;Peanut butter salad tofu;36;Salads;0;1;0;0;1;0;0;1;0;0;0;0;0;0
+10038;Yum Fresh salad tofu;42;Salads;0;0;0;0;1;0;0;0;0;0;0;1;0;0
+10039;Yum Fresh salad chicken;42;Salads;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10040;Yum Fresh salad shrimp;42;Salads;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+10041;Sweet and sour chicken balls;46;Crispy Chicken mains;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10042;Chicken with lemon and beer;46;Crispy Chicken mains;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10043;Sesame schnitzels;46;Crispy Chicken mains;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10044;The Great Wall;86;Crispy Chicken mains;1;0;0;1;0;0;0;0;1;0;0;1;0;0
+10045;Childrens schnitzel;42;Crispy Chicken mains;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10046;Tai curry chicken;54;Special;1;1;0;0;0;0;1;1;0;0;0;0;0;0
+10047;Tai curry tofu;54;Special;0;1;0;0;1;0;1;1;0;0;0;0;0;1
+10048;Japanehs Kochi Curry chicken;54;Special;1;0;0;0;0;0;1;1;0;0;0;0;0;0
+10049;Japanehs Kochi Curry tofu;54;Special;0;0;0;0;1;0;1;1;0;0;0;0;0;1
+10050;Chicken ramen;56;Special;1;0;0;1;0;0;0;0;1;0;0;0;0;0
+10051;Ramen goose;56;Special;0;0;0;1;0;0;0;0;1;0;0;0;0;0
+10052;Calamari Shrimp Ramen;64;Special;0;0;0;1;0;0;0;0;1;1;0;0;0;0
+10053;Biryani chicken;52;Wok mains;1;1;0;0;0;0;1;1;0;0;1;0;0;0
+10054;Biryani tofu;48;Wok mains;0;1;0;0;1;0;1;1;0;0;1;0;0;0
+10055;Pad Kapao;48;Wok mains;0;1;0;0;0;1;1;0;1;0;0;0;0;0
+10056;Chiang Mai Coconut beef;48;Wok mains;0;1;0;0;0;1;0;1;0;0;1;0;0;0
+10057;Chiang Mai Coconut tofu;48;Wok mains;0;1;0;0;1;0;0;1;0;0;1;0;0;1
+10058;Chiang Mai Coconut chicken;48;Wok mains;1;1;0;0;0;0;0;1;0;0;1;0;0;0
+10059;Persian salmon;48;Wok mains;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10060;Persian beef;48;Wok mains;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+10061;Cashew Tempura chicken;48;Wok mains;1;0;0;0;0;0;0;0;0;0;0;1;0;0
+10062;Cashew Tempura beef;48;Wok mains;1;0;0;0;0;1;0;0;0;0;0;0;0;0
+10063;Cashew Tempura tofu;48;Wok mains;0;0;0;0;1;0;0;0;0;0;0;1;0;1
+10064;Sichuan Gu Gu tofu;48;Wok mains;0;1;0;0;1;0;0;0;0;0;0;0;0;1
+10065;Sichuan Gu Gu chicken;48;Wok mains;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+10066;Sichuan Gu Gu beef;48;Wok mains;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+10067;Cashew broccoli;48;Wok mains;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10068;Cashew broccoli chicken;48;Wok mains;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10069;Cashew broccoli tofu;48;Wok mains;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+10070;Japanes beef;58;Wok mains;0;0;0;0;0;1;1;1;0;0;0;0;0;0
+10071;Indian Chicken Butter;58;Wok mains;1;1;1;0;0;0;1;0;0;0;0;0;0;0
+10072;Chiza Health chicken;48;Wok mains;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+10073;Chiza Health beef;48;Wok mains;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+10074;Chiza Health tofu;48;Wok mains;0;1;0;0;1;0;0;0;0;0;0;0;0;1
+10075;Chiza Health vegetables;42;Wok mains;0;1;0;0;0;0;0;0;0;0;0;0;0;1
+10076;Pad Thai Vegetables;36;Pad Thai;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10077;Pad Thai Tofu;46;Pad Thai;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+10078;Pad Thai chicken;46;Pad Thai;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10079;Pad Thai Street beef;56;Pad Thai;0;0;0;1;0;1;0;0;1;0;0;0;0;0
+10080;Pad Thai Street chicken;52;Pad Thai;1;0;0;1;0;0;0;0;1;0;0;0;0;0
+10081;Pad Thai Street tofu;48;Pad Thai;0;0;0;1;1;0;0;0;1;0;0;0;1;0
+10082;Steamed salmon;96;Mains from sea;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+10083;Butter and garlic shrimp;96;Mains from sea;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+10084;Black Tiger Pampered;96;Mains from sea;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+10085;Ng Qiao Wen;68;Mains from sea;0;1;0;1;0;0;1;1;0;0;1;0;0;0
+10086;Steamed white rice;16;side dish;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10087;rice with vegetables;16;side dish;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+10088;Thai fries;18;side dish;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+10089;Rice with egg chips;18;side dish;0;0;0;0;0;0;1;0;1;0;0;0;1;0
+10090;Sweet Potato Chips;22;side dish;0;1;0;0;0;0;0;0;0;0;0;1;0;1
+10091;Rustic noodles vegetables;36;Noodles;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+10092;Rustic noodles tofu;46;Noodles;0;0;0;0;1;0;0;0;0;0;0;0;1;0
+10093;Rustic noodles chicken;46;Noodles;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+10094;Rustic noodles beef;48;Noodles;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10095;Leek salmon noodles;48;Noodles;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+10096;Afghan beef;48;Noodles;0;0;0;0;0;1;0;0;0;0;1;0;0;0
+10097;Afghan chicken;48;Noodles;1;0;0;0;0;0;0;0;0;0;1;0;0;0
+10098;Afghan tofu;48;Noodles;0;0;0;0;1;0;0;0;0;0;1;0;0;1
+10099;Afghan vegetables;36;Noodles;0;0;0;0;0;0;0;0;0;0;1;0;0;1
+10100;Afghan coconut vegetables;40;Noodles;0;1;0;0;0;0;0;1;0;0;1;0;0;1
+10101;Afghan coconut tofu;48;Noodles;0;1;0;0;1;0;0;1;0;0;1;0;0;1
+10102;Afghan coconut chicken;48;Noodles;1;1;0;0;0;0;0;1;0;0;1;0;0;0
+10103;Afghan coconut beef;48;Noodles;0;1;0;0;0;1;0;1;0;0;1;0;0;0
+10104;Smoking goose;46;Noodles;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10105;Coconut salmon noodles;52;Noodles;0;1;0;1;0;0;0;0;0;0;1;0;0;0
+10106;Artichoke noodles;48;Noodles;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+10107;Curry Paints chicken;48;Noodles;1;1;0;0;0;0;0;1;0;0;1;0;0;0
+10108;Curry Paints tofu;46;Noodles;0;1;0;0;1;0;0;1;0;0;1;0;1;0
+10109;Udon Spinach tofu;48;Noodles;0;1;0;0;1;0;0;0;0;0;0;0;0;1
+10110;Udon Spinach beef;48;Noodles;0;1;0;0;0;1;0;0;0;0;0;0;0;0
+10111;Udon Spinach chicken;48;Noodles;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+10112;Singapore Roll 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10113;Manhattan Roll 8 units;42;Sushi;0;1;0;1;0;0;1;0;0;0;0;1;0;0
+10114;Rainbow 8 units;42;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10115;Aby Yakado 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10116;Special Yakuza 8 units;44;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10117;Salmon Maguru 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10118;Tobiko Roll 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10119;Roll Tiger Shrimp 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;1;0;0;0;0
+10120;Sweet Potato Roll 8 units;46;Sushi;0;1;0;1;0;0;1;0;0;0;0;1;0;0
+10121;Shanghai 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10122;Tokyo 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10123;Beijing 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10124;Himeji 4 units;36;Sushi;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10125;Fukushima 4 units;36;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10126;Yokohama 8 units;46;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10127;Nagasaki 8 units;46;Sushi;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10128;Potomaki Salmon Avocado;34;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10129;Photomaki red tuna;34;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10130;Photomaki Shrimp;34;Sushi;0;0;0;0;0;0;1;0;0;1;0;0;0;0
+10131;Photomaki Smoked;34;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10132;Photomaki sweet potato;34;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10133;Photomaki Skin;32;Sushi;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10134;Photomaki Special TC;38;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10135;Photomaki Salmon pampered;38;Sushi;0;0;0;1;0;0;1;0;1;0;0;1;0;0
+10136;Photomaki Hiroshima;37;Sushi;0;0;0;1;0;0;1;0;0;1;0;0;0;0
+10137;Photomaki Thai Chin tuna;37;Sushi;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10138;Photomaki Tempura shrimp;39;Sushi;0;0;0;0;0;0;1;0;0;1;0;1;0;0
+10139;Photomaki White fish;38;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10140;Photomaki Vegan special;30;Sushi;0;0;0;0;1;0;1;0;0;0;0;0;0;1
+10141;Vegetarian photomaki;30;Sushi;0;0;0;0;0;0;1;0;1;0;0;0;1;0
+10142;Sushi sandwich vegeterian;30;Sushi Sandwich;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+10143;Sushi sandwich Salmon;36;Sushi Sandwich;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10144;Sushi sandwich Salmon Skin;36;Sushi Sandwich;0;1;0;1;0;0;1;0;0;0;0;0;0;0
+10145;Sushi sandwich Red Tuna;36;Sushi Sandwich;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10146;Sushi sandwich Red Tuna;36;Sushi Sandwich;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10147;Sushi sandwich White fish;38;Sushi Sandwich;0;0;0;1;0;0;1;0;0;0;0;0;0;0
+10148;Sushi sandwich Cheese;38;Sushi Sandwich;0;0;0;0;0;0;1;0;0;0;0;1;1;0
+10149;Sushi sandwich Cheese and Salmon;38;Sushi Sandwich;0;0;0;1;0;0;1;0;0;0;0;1;0;0
+10150;Sushi sandwich vegeterian;30;Sushi Sandwich;0;0;0;0;0;0;0;0;1;0;0;0;1;0
+10151;Vegetarian photomaki;30;Sushi;0;0;0;0;0;0;1;0;1;0;0;0;1;0
+10152;Photomaki Vegan special;30;Sushi;0;0;0;0;1;0;1;0;0;0;0;0;0;1
+10153;Photomaki White fish;38;Sushi;0;0;0;1;0;0;1;0;0;0;0;1;0;0
